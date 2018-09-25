@@ -1,0 +1,86 @@
+.españa{
+  padding-top: 75px;
+  width: 400px;
+  height: 180px;
+  background-color: red;
+  border-style: solid;
+}
+
+.franja{
+  height: 100px;
+  background-color: yellow;
+}
+
+.dinamarca{
+  width: 400px;
+  height: 180px;
+  background-color: white;
+  border-style: solid;
+}
+
+.bloque1{
+  background-color: red;
+  width: 30%;
+  height: 45%;
+  float: left;
+}
+.bloque2{
+  background-color: red;
+  width: 60%;
+  height: 45%;
+  float: right;
+}
+.bloque3{
+  background-color: red;
+  width: 30%;
+  height: 45%;
+  float: left;
+  margin-top: 18px;
+}
+.bloque4{
+  background-color: red;
+  width: 60%;
+  height: 45%;
+  float: right;
+  margin-top: 18px;
+}
+
+.emiratos{
+  width: 400px;
+  height: 180px;
+  border-style: solid;
+}
+
+.bloque5{
+  background-color: red;
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+.bloque6{
+  background-color: green;
+  width: 75%;
+  height: 60px;
+  float: right;
+}
+.bloque7{
+  background-color: black;
+  width: 75%;
+  height: 60px;
+  float:right;
+  margin-top: 60px;
+}
+.japan{
+  width: 400px;
+  height: 180px;
+  border-style: solid;
+}
+.sun{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: red;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
