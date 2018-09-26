@@ -1,0 +1,27 @@
+body{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+header{
+  color: white;
+  background-color: black;
+
+}
+
+footer{
+  background-color: silver;
+  text-align: center;
+  clear: both;
+}
+
+.uno{
+  background-color: grey;
+  float: left;
+  width: 200px;
+}
+
+.dos{
+  background-color: yellow;
+  overflow: auto;
+}
